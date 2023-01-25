@@ -11,4 +11,4 @@
 # About
 I'm a fourth-year undergraduate student in UCSD majoring in Statistics and minoring in Data Science. I'm primarily interested in the broad areas of machine learning. Specifically, I'm interested in developing more reliable,
 explainable, and robust machine learning algorithms. My research focus right now is explainable AI, specifically, instance based interpretability method. . My previous research includes influence function, counter factual explanation and data model.
-I'm also interested in application of machine learning algorithms in CV and NLP. 
+I'm also interested in application of machine learning algorithms in CV and NLP.  
