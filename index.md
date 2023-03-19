@@ -15,4 +15,10 @@ I'm a fourth year undergraduate student studying Statistics and Data Science at 
 
 &nbsp;   &nbsp;   &nbsp;   &nbsp; Winter 2022, MATH 11 Calculus-Based Introductory Probability and Statistics
 
+## Contact
+- xuhuil2@illinois.edu
+- xul019@ucsd.edu
+- xuhui.liu@claudius.ai
+
+
 <li><a href="/MISCELLANEOUS">MISCELLANEOUS</a></li>
