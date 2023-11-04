@@ -27,4 +27,4 @@ I'm a first-year Ph.D. student in Statistics at UIUC. I obtained my Bachelor's d
 - xuhui.liu@claudius.ai
 
 
-<li><a href="/MISCELLANEOUS">MISCELLANEOUS</a></li>
+<li><a href="/MISCELLANEOU">MISCELLANEOUS</a></li>
