@@ -23,8 +23,6 @@ I'm a first-year Ph.D. student in Statistics at UIUC. I obtained my Bachelor's d
 
 ## Contact
 - xuhuil2@illinois.edu
-- xul019@ucsd.edu
-- xuhui.liu@claudius.ai
 
 
 <li><a href="/MISCELLANEOU">MISCELLANEOUS</a></li>
