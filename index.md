@@ -7,8 +7,8 @@ I'm a first-year Ph.D. student in Statistics at UIUC. I obtained my Bachelor's d
 
 **University of California San Diego, B.S. in Statistics, 2019-2023**
 
-## Experiences
-**[Claudius Legal Intelligence](https://www.claudius.ai/), Research Intern advised by Professor [Melanie Weber](http://melanie-weber.com/), 2022-2023**
+<>## Experiences
+<>**[Claudius Legal Intelligence](https://www.claudius.ai/), Research Intern advised by Professor [Melanie Weber](http://melanie-weber.com/), 2022-2023**
 
 ## Teaching
 #### *University of California San Diego, Teaching Assistant*
