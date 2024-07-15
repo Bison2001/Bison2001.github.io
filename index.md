@@ -1,6 +1,6 @@
 # Xuhui Liu
 ## About
-I'm a first-year Ph.D. student in Statistics at UIUC. I obtained my Bachelor's degree in Statistics from UCSD. During my undergraduate study, I was fortunate to be advised by Professor [Zhiting Hu](http://zhiting.ucsd.edu/) on fields of influence function. My research focuses on explainable AI, specifically, instance-based interpretability methods like influence function.
+I'm a first-year Ph.D. student in Statistics at UIUC. I obtained my Bachelor's degree in Statistics from UCSD. During my undergraduate study, I was fortunate to be advised by Professor [Zhiting Hu](http://zhiting.ucsd.edu/) on fields of influence function. My research focuses on instance-based interpretability methods like influence function.
 
 ## Education
 **University of Illinois Urbana-Champaign, Ph.D. in Statistics, 2023-**
